@@ -46,8 +46,15 @@
             </address>
         </author>
 
-        <date month="April" year="2015"/>
+        <author initials="A." surname="Bailey"
+                fullname="Antony Bailey">
+            <organization/>
 
+            <address>
+                <uri>support@antonybailey.net</uri>
+            </address>
+        </author>
+        <date month="September" year="2016"/>
         <area>General</area>
         <workgroup>Internet Engineering Task Force</workgroup>
         <abstract>
